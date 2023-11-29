@@ -1,2 +1,1 @@
-from database import Apples
-__all__ = ["Apples"]
+#тут надо что-то написать
